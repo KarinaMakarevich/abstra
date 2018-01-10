@@ -1,1 +1,12 @@
-
+*.in
+*.out**/build
+out/
+**/nbproject
+*.mf
+*.jar
+*.class
+*.iml
+.idea/
+*.iws
+logs/
+target/
